@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Books/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Items": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Books.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Books.dll": {}
+        }
+      },
+      "Items/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Items.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Items.dll": {}
+        }
+      },
+      "Media/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Items": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Media.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Media.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Books/1.0.0": {
+      "type": "project",
+      "path": "../Books/Books.csproj",
+      "msbuildProject": "../Books/Books.csproj"
+    },
+    "Items/1.0.0": {
+      "type": "project",
+      "path": "../Items/Items.csproj",
+      "msbuildProject": "../Items/Items.csproj"
+    },
+    "Media/1.0.0": {
+      "type": "project",
+      "path": "../Media/Media.csproj",
+      "msbuildProject": "../Media/Media.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Books >= 1.0.0",
+      "Items >= 1.0.0",
+      "Media >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Matt\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\LibraryS\\Library\\Library.csproj",
+      "projectName": "Library",
+      "projectPath": "C:\\Users\\Matt\\source\\repos\\LibraryS\\Library\\Library.csproj",
+      "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Matt\\source\\repos\\LibraryS\\Library\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Matt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Matt\\source\\repos\\LibraryS\\Books\\Books.csproj": {
+              "projectPath": "C:\\Users\\Matt\\source\\repos\\LibraryS\\Books\\Books.csproj"
+            },
+            "C:\\Users\\Matt\\source\\repos\\LibraryS\\Items\\Items.csproj": {
+              "projectPath": "C:\\Users\\Matt\\source\\repos\\LibraryS\\Items\\Items.csproj"
+            },
+            "C:\\Users\\Matt\\source\\repos\\LibraryS\\Media\\Media.csproj": {
+              "projectPath": "C:\\Users\\Matt\\source\\repos\\LibraryS\\Media\\Media.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
