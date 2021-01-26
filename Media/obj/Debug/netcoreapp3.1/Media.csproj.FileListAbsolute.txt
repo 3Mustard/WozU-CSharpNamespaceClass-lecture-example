@@ -1,0 +1,12 @@
+C:\Users\Matt\source\repos\LibraryS\Media\bin\Debug\netcoreapp3.1\Media.deps.json
+C:\Users\Matt\source\repos\LibraryS\Media\bin\Debug\netcoreapp3.1\Media.dll
+C:\Users\Matt\source\repos\LibraryS\Media\bin\Debug\netcoreapp3.1\Media.pdb
+C:\Users\Matt\source\repos\LibraryS\Media\bin\Debug\netcoreapp3.1\Items.dll
+C:\Users\Matt\source\repos\LibraryS\Media\bin\Debug\netcoreapp3.1\Items.pdb
+C:\Users\Matt\source\repos\LibraryS\Media\obj\Debug\netcoreapp3.1\Media.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\LibraryS\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\LibraryS\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfo.cs
+C:\Users\Matt\source\repos\LibraryS\Media\obj\Debug\netcoreapp3.1\Media.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\LibraryS\Media\obj\Debug\netcoreapp3.1\Media.csproj.CopyComplete
+C:\Users\Matt\source\repos\LibraryS\Media\obj\Debug\netcoreapp3.1\Media.dll
+C:\Users\Matt\source\repos\LibraryS\Media\obj\Debug\netcoreapp3.1\Media.pdb

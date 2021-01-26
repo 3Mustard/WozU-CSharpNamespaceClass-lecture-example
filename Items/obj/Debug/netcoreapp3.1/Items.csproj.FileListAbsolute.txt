@@ -1,0 +1,8 @@
+C:\Users\Matt\source\repos\LibraryS\Items\bin\Debug\netcoreapp3.1\Items.deps.json
+C:\Users\Matt\source\repos\LibraryS\Items\bin\Debug\netcoreapp3.1\Items.dll
+C:\Users\Matt\source\repos\LibraryS\Items\bin\Debug\netcoreapp3.1\Items.pdb
+C:\Users\Matt\source\repos\LibraryS\Items\obj\Debug\netcoreapp3.1\Items.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\LibraryS\Items\obj\Debug\netcoreapp3.1\Items.AssemblyInfo.cs
+C:\Users\Matt\source\repos\LibraryS\Items\obj\Debug\netcoreapp3.1\Items.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\LibraryS\Items\obj\Debug\netcoreapp3.1\Items.dll
+C:\Users\Matt\source\repos\LibraryS\Items\obj\Debug\netcoreapp3.1\Items.pdb

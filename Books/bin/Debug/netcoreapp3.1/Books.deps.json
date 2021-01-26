@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Books/1.0.0": {
+        "dependencies": {
+          "Items": "1.0.0"
+        },
+        "runtime": {
+          "Books.dll": {}
+        }
+      },
+      "Items/1.0.0": {
+        "runtime": {
+          "Items.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Books/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Items/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
